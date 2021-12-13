@@ -1,4 +1,4 @@
-# Solana NFT Upload
+# Solana NFT Upload by cryptoSyndrome
 
 This is a small utility to upload Solana NFTs to Arweave.
 
